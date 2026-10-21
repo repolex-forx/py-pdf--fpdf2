@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/py-pdf/fpdf2/commit/aee7cd1174342356bb8e76740a21db4bd25666aa",
       "git:hexsha": "aee7cd1174342356bb8e76740a21db4bd25666aa",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T00:09:03.485338+00:00"
     },
     {
       "@id": "https://repolex.ai/r/py-pdf/fpdf2/commit/25605eda2b32178cb7730800f4337fa4af00af18",
